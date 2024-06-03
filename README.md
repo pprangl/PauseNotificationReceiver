@@ -15,6 +15,7 @@ There are three arguments required:
 | token    | Static  | Yes      | 
 
 Under the token you have to paste a service account token. 
+Please also add your CV URL to the variable baseURL
 
 Now you can assign the action to your CC template (so all devices involved get tagged) because of the state of 'yes'.
 
