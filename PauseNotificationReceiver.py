@@ -13,7 +13,7 @@ token = ctx.action.args.get("token")
 switch = ctx.getDevice()
 workspaceID = str(uuid.uuid4())
 deviceId = (str(ctx.getDevice().id))
-baseURL = 'https://www.cv-staging.corp.arista.io/'
+baseURL = '<CVP-URL>'
 
 headers = {"Authorization": "Bearer " + token, "Accept": "application/json"}
 
