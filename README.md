@@ -3,7 +3,7 @@
 You can use a custom action script which is 'blackholing' the events during a maintenance. The receiver will be set to 'no receiver' in the specific notification rule.
 This is working with a notification rule on the top ('Please select Continue Checking Rules')
 
-![CVP Custom Notification Rule with no receiver](/images/NotificationRule.png)
+![CVP Custom Notification Rule with no receiver](/NotificationRule.png)
 
 This script can be imported as a CVP action. 
 There are three arguments required:
